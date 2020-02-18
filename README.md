@@ -1,3 +1,7 @@
+# Shaun Wassell's React: Creating and Hosting a Full-Stack Site
+This is Front-End result of following the tutorial.  I have added bootstrap syling instead of custom CSS.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
