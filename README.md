@@ -4,6 +4,20 @@ This is Front-End result of following the tutorial.  I have added bootstrap syli
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Proxy
+adding the proxy name value to the `package.json` file will allow you to make cors requests.
+
+```javascript
+"name": "react_tut",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:8000/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
